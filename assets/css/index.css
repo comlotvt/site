@@ -1,0 +1,23 @@
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: "Palatino Linotype", sans-serif;
+}
+  
+<!-- Links -->
+
+a {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}

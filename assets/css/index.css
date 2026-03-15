@@ -22,7 +22,7 @@ a:hover {
   text-decoration: underline;
 }
 
-.publications-header {
+.events-header {
   text-align: center;
   margin: var(--space-16) 0 var(--space-12);
   max-width: 800px;
@@ -31,21 +31,21 @@ a:hover {
   padding: 0 var(--space-4);
 }
 
-.publications-header h1 {
+.events-header h1 {
   font-size: var(--font-size-4xl);
   font-weight: 800;
   margin-bottom: var(--space-4);
   color: var(--text-primary);
 }
 
-.publications-description {
+.events-description {
   font-size: var(--font-size-lg);
   color: var(--text-secondary);
   line-height: var(--leading-relaxed);
   margin: 0;
 }
 
-.publications-timeline {
+.events-timeline {
   margin-top: var(--space-12);
   max-width: 1000px;
   margin-left: auto;
@@ -106,24 +106,18 @@ a:hover {
   font-weight: 600;
 }
 
-.publications-list {
+.events-list {
   margin-left: var(--space-12);
   display: flex;
   flex-direction: column;
   gap: var(--space-6);
 }
 
-.publication-item {
+.event-item {
   background: white;
   border: 1px solid var(--border-color);
   border-radius: var(--radius-lg);
   padding: var(--space-6);
   transition: all var(--transition-fast);
   position: relative;
-}
-
-.publication-item:hover {
-  transform: translateY(-2px);
-  box-shadow: var(--shadow-md);
-  border-color: var(--primary-color);
 }

@@ -19,7 +19,7 @@ css: "/assets/css/index.css"
   <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-01-24 - Presidio Viterbo.jpg">
 </div>
 
-<div class="publications-timeline">
+<div class="events-timeline">
   <div class="year-section" id="year-2025">
     <div class="year-header">
       <h2 class="year-title">2025</h2>

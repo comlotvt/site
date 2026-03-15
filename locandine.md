@@ -19,84 +19,63 @@ css: "/assets/css/index.css"
   <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-01-24 - Presidio Viterbo.jpg">
 </div>
 
-<div class="row">
-  <h4>26-10-2025 - Proiezione del documentario "Colpevoli di Palestina"</h4>
-  <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-10-26 - Proiezione Anan.jpg">
-</div>
-
-<div class="row">
-  <h4>28-09-2025 - Proiezione del documentario "Colpevoli di Palestina"</h4>
-  <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-09-28 - Proiezione Anan.jpg">
-</div>
-
-<div class="row">
-  <h4>18-09-2025 - Presidio per il diritto allo studio per Walaa e Haya</h4>
-  <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-09-18 - Presidio LazioDisco.jpg">
-</div>
-
-<div class="row">
-  <h4>18-07-2025 - Assemblea presso la Gelco S.P.A.</h4>
-  <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-07-18 - Presidio Gelco.jpg">
-</div>
-
-<div class="row">
-  <h4>14-06-2025 - Presentazione del libro "Senza Stato" di Rosalba Belmonte</h4>
-  <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-06-14 - Presentazione Libro.jpg">
-</div>
-
-<div class="row">
-  <h4>16-05-2025 - Presidio per i 77 anni dalla Nakba</h4>
-  <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-05-16 - Presidio Nakba.jpg">
-</div>
-
-<div class="row">
-  <h4>10-05-2025 - Presentazione del libro "L'Attacco degli Imprenditori" di Emiliano Gentili</h4>
-  <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-05-10 - Presentazione Libro.jpg">
-</div>
-
-<div class="row">
-  <h4>01-05-2025 - Corteo per il 1 Maggio</h4>
-  <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-05-01 - Corteo 1 Maggio.jpg">
-</div>
-
-<div class="row">
-  <h4>15-03-2025 - Presentazione del libro "Ignorare l'Assenza" di Valeria Roma</h4>
-  <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-03-15 - Presentazione Libro.jpg">
-</div>
-
-<div class="row">
-  <h4>01-02-2025 - Corteo per la Palestina libera</h4>
-  <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-02-01 - Corteo Viterbo.jpg">
-</div>
-
 <div class="publications-timeline">
-
-<div class="year-section" id="year-2025">
-  <div class="year-header">
-    <h2 class="year-title">2025</h2>
-    <div class="year-count">4 publications</div>
-  </div>
-
-  <div class="publications-list">
-    <div class="publication-item">
-      <h3 class="paper-title">Can Speech LLMs think while listening?</h3>
-      <div class="authors">
-        <span class="author-name">Ian Shih</span>,
-        <span class="author-name author-me">Desh Raj</span>,
-        <span class="author-name">Chunyang Wu</span>,
-        <span class="author-name">Wei Zhou</span>,
-        <span class="author-name">SK Bong</span>,
-        <span class="author-name">Yashesh Gaur</span>,
-        <span class="author-name">Jay Mahadeokar</span>,
-        <span class="author-name">Ozlem Kalinli</span>,
-        <span class="author-name">Mike Seltzer</span>
-      </div>
-      <!-- <div class="venue">Submitted to ICLR 2026</div> -->
-      <div class="paper-links">
-        <a href="https://arxiv.org/abs/2510.07497" class="paper-link arxiv">Paper</a>
-        <a href="/static/ppt/moshi_cot.pdf" class="paper-link slides">Slides</a>
-      </div>
+  
+  <div class="year-section" id="year-2025">
+    <div class="year-header">
+      <h2 class="year-title">2025</h2>
+      <div class="year-count">4 publications</div>
+    </div>
+    
+    <div class="row">
+      <h4>26-10-2025 - Proiezione del documentario "Colpevoli di Palestina"</h4>
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-10-26 - Proiezione Anan.jpg">
+    </div>
+    
+    <div class="row">
+      <h4>28-09-2025 - Proiezione del documentario "Colpevoli di Palestina"</h4>
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-09-28 - Proiezione Anan.jpg">
+    </div>
+    
+    <div class="row">
+      <h4>18-09-2025 - Presidio per il diritto allo studio per Walaa e Haya</h4>
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-09-18 - Presidio LazioDisco.jpg">
+    </div>
+    
+    <div class="row">
+      <h4>18-07-2025 - Assemblea presso la Gelco S.P.A.</h4>
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-07-18 - Presidio Gelco.jpg">
+    </div>
+    
+    <div class="row">
+      <h4>14-06-2025 - Presentazione del libro "Senza Stato" di Rosalba Belmonte</h4>
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-06-14 - Presentazione Libro.jpg">
+    </div>
+    
+    <div class="row">
+      <h4>16-05-2025 - Presidio per i 77 anni dalla Nakba</h4>
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-05-16 - Presidio Nakba.jpg">
+    </div>
+    
+    <div class="row">
+      <h4>10-05-2025 - Presentazione del libro "L'Attacco degli Imprenditori" di Emiliano Gentili</h4>
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-05-10 - Presentazione Libro.jpg">
+    </div>
+    
+    <div class="row">
+      <h4>01-05-2025 - Corteo per il 1 Maggio</h4>
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-05-01 - Corteo 1 Maggio.jpg">
+    </div>
+    
+    <div class="row">
+      <h4>15-03-2025 - Presentazione del libro "Ignorare l'Assenza" di Valeria Roma</h4>
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-03-15 - Presentazione Libro.jpg">
+    </div>
+    
+    <div class="row">
+      <h4>01-02-2025 - Corteo per la Palestina libera</h4>
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-02-01 - Corteo Viterbo.jpg">
     </div>
   </div>
 </div>
-</div>
+

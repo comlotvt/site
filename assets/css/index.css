@@ -65,7 +65,7 @@ a:hover {
   top: 0;
   bottom: 0;
   width: 2px;
-  background: linear-gradient(to bottom, var(--primary-color), transparent);
+  background: linear-gradient(to bottom, red, transparent);
   opacity: 0.3;
 }
 
@@ -83,10 +83,10 @@ a:hover {
   left: 1.5rem;
   width: 1rem;
   height: 1rem;
-  background: black;
+  background: red;
   border-radius: 50%;
   border: 3px solid white;
-  box-shadow: red;
+  box-shadow: black;
 }
 
 .year-title {

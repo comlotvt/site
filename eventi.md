@@ -16,7 +16,7 @@ css: "/assets/css/index.css"
 </div>
 
 <div class="events-timeline">
-  <div class="year-section" id="year-2026">
+  <div class="year-section container" id="year-2026">
     <div class="year-header">
       <h2 class="year-title">2026</h2>
     </div>

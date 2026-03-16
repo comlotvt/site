@@ -13,16 +13,21 @@ css: "/assets/css/index.css"
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-02-08 - Convegno Viterbo.jpeg">
       <h4>08-02-2026 - Convegno "Sabotiamo la Guerra e la Repressione"</h4>
       <div class="event-tags">
+        <span class="event-tag">convegno</span>
         <span class="event-tag">palestina</span>
       </div>
     </div>
     <div class="event-item">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-02-07 - Corteo Viterbo.jpg">
       <h4>07-02-2026 - Corteo "Sabotiamo la Guerra e la Repressione"</h4>
+        <span class="event-tag">corteo</span>
+        <span class="event-tag">palestina</span>
     </div>
     <div class="event-item">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-01-24 - Presidio Viterbo.jpg">
       <h4>24-01-2026 - Presidio contro il DDL Gasparri - Delrio</h4>
+        <span class="event-tag">palestina</span>
+        <span class="event-tag">presidio</span>
     </div>
   </div>
 </div>

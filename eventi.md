@@ -5,14 +5,14 @@ css: "/assets/css/index.css"
 ---
 
 <div id="myBtnContainer">
-  <button class="btn active" onclick="filterSelection('all')"> Show all</button>
-  <button class="btn" onclick="filterSelection('convegno')"> Convegno</button>
-  <button class="btn" onclick="filterSelection('corteo')"> Corteo</button>
-  <button class="btn" onclick="filterSelection('lavoro')"> Lavoro</button>
-  <button class="btn" onclick="filterSelection('libro')"> Libro</button>
-  <button class="btn" onclick="filterSelection('palestina')"> Palestina</button>
-  <button class="btn" onclick="filterSelection('presidio')"> Presidio</button>
-  <button class="btn" onclick="filterSelection('proiezione')"> Proiezione</button>
+  <button class="btn active" onclick="filterSelection('all')">Show all</button>
+  <button class="btn" onclick="filterSelection('convegno')">Convegno</button>
+  <button class="btn" onclick="filterSelection('corteo')">Corteo</button>
+  <button class="btn" onclick="filterSelection('lavoro')">Lavoro</button>
+  <button class="btn" onclick="filterSelection('libro')">Libro</button>
+  <button class="btn" onclick="filterSelection('palestina')">Palestina</button>
+  <button class="btn" onclick="filterSelection('presidio')">Presidio</button>
+  <button class="btn" onclick="filterSelection('proiezione')">Proiezione</button>
 </div>
 
 <div class="events-timeline">
@@ -20,7 +20,7 @@ css: "/assets/css/index.css"
     <div class="year-header">
       <h2 class="year-title">2026</h2>
     </div>
-    <div class="event-item">
+    <div class="event-item filterDiv convegno palestina">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-02-08 - Convegno Viterbo.jpeg">
       <h4>08-02-2026 - Convegno "Sabotiamo la Guerra e la Repressione"</h4>
       <div class="event-tags">
@@ -28,7 +28,7 @@ css: "/assets/css/index.css"
         <span class="event-tag">palestina</span>
       </div>
     </div>
-    <div class="event-item">
+    <div class="event-item filterDiv corteo palestina">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-02-07 - Corteo Viterbo.jpg">
       <h4>07-02-2026 - Corteo "Sabotiamo la Guerra e la Repressione"</h4>
       <div class="event-tags">
@@ -36,7 +36,7 @@ css: "/assets/css/index.css"
         <span class="event-tag">palestina</span>
       </div>
     </div>
-    <div class="event-item">
+    <div class="event-item filterDiv palestina presidio">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-01-24 - Presidio Viterbo.jpg">
       <h4>24-01-2026 - Presidio contro il DDL Gasparri - Delrio</h4>
       <div class="event-tags">

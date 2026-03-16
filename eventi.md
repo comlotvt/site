@@ -5,7 +5,7 @@ css: "/assets/css/index.css"
 ---
 
 <div id="myBtnContainer">
-  <button class="btn active" onclick="filterSelection('all')">Show all</button>
+  <button class="btn active" onclick="filterSelection('all')">Mostra tutti</button>
   <button class="btn" onclick="filterSelection('convegno')">Convegno</button>
   <button class="btn" onclick="filterSelection('corteo')">Corteo</button>
   <button class="btn" onclick="filterSelection('lavoro')">Lavoro</button>
@@ -116,7 +116,7 @@ css: "/assets/css/index.css"
         <span class="event-tag">corteo</span>
       </div>
     </div>
-    <div class="event-item">
+    <div class="event-item filterDiv libro palestina">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-03-15 - Presentazione Libro.jpg">
       <h4>15-03-2025 - Presentazione del libro "Ignorare l'Assenza" di Valeria Roma</h4>
       <div class="event-tags">

@@ -1,8 +1,8 @@
 /* --- CSS Custom Properties (Modern Variables) --- */
 :root {
   /* Color Palette - Modern, accessible colors */
-  --primary-color: #2563eb;          /* Dark red - CAMBIATO */
-  --primary-hover: #1d4ed8;          /* Darker blue on hover */
+  --primary-color: #b61e2b;          /* Dark red - CAMBIATO */
+  --primary-hover: #880a15;          /* Darker red on hover - CAMBIATO */
   --secondary-color: #64748b;        /* Slate gray */
   --text-primary: #1e293b;           /* Almost black for body text */
   --text-secondary: #64748b;         /* Gray for secondary text */

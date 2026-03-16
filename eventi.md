@@ -24,6 +24,40 @@ css: "/assets/css/index.css"
   <span class="post-count" id="post-count">{{ site.posts.size }} eventi</span>
 </div>
 
+<div class="event-grid">
+  {% for post in site.posts %}
+  {% comment %} Extract first image from post content for card display {% endcomment %}
+  {% assign image_url = '' %}
+
+  {% comment %} Look for markdown images first {% endcomment %}
+  {% assign md_images = post.content | split: '![' %}
+  {% if md_images.size > 1 %}
+  {% for md_img in md_images %}
+  {% if md_img contains '](' %}
+  {% assign img_parts = md_img | split: '](' %}
+  {% if img_parts.size > 1 %}
+  {% assign potential_url = img_parts[1] | split: ')' | first | strip %}
+  {% if potential_url contains '/static/img/' or potential_url contains '.png' or potential_url contains '.jpg' or
+  potential_url contains '.jpeg' or potential_url contains '.gif' %}
+  {% assign image_url = potential_url %}
+  {% break %}
+  {% endif %}
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+  {% endif %}
+
+  {% comment %} Fallback: look for HTML img tags {% endcomment %}
+  {% if image_url == '' %}
+  {% assign html_images = post.content | split: '<img ' %}
+      {% if html_images.size > 1 %}
+        {% assign img_tag = html_images[1] | split: '>' | first %}
+  {% if img_tag contains 'src="' %}
+  {% assign image_url = img_tag | split: 'src="' | last | split: '"' | first | strip %}
+  {% endif %}
+  {% endif %}
+  {% endif %}
+
 <div class="events-timeline">
   <div class="year-section" id="year-2026">
     <div class="year-header">
@@ -142,6 +176,8 @@ css: "/assets/css/index.css"
       </div>
     </div>
   </div>
+</div>
+  {% endfor %}
 </div>
 
 <!-- Search Data for JavaScript -->

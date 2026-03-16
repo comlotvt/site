@@ -21,6 +21,7 @@ css: "/assets/css/index.css"
       </svg>
     </button>
   </div>
+  <span class="post-count" id="post-count">{{ site.posts.size }} eventi</span>
 </div>
 
 <div class="events-timeline">

@@ -14,7 +14,7 @@ author: CLV
 
 navbar-links:
   Archivio:
-    - Locandine: "eventi"
+    - Eventi: "eventi"
     - Volantini: "volantini"
   Home: "https://matteostefani42.github.io/clv/"
 

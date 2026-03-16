@@ -15,7 +15,7 @@ css: "/assets/css/index.css"
   <button class="btn" onclick="filterSelection('proiezione')">Proiezione</button>
 </div>
 
-<div class="events-timeline container">
+<div class="events-timeline filter-container">
   <div class="year-section" id="year-2026">
     <div class="year-header">
       <h2 class="year-title">2026</h2>

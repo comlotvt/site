@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Locandine
+title: Eventi
 css: "/assets/css/index.css"
 ---
 

@@ -26,6 +26,22 @@ css: "/assets/css/index.css"
     <div class="year-header">
       <h2 class="year-title">2026</h2>
     </div>
+    <div class="event-item filterDiv assemblea guerra">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-03-22 - Assemblea Iran.jpeg">
+      <h4>22-03-2026 - Assemblea pubblica sull'aggressione imperialista all'Iran</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+        <span class="event-tag">guerra</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv presidio sanità">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-03-07 - Iniziativa OST.jpg">
+      <h4>07-03-2026 - Presidio informativo dell'Osservatorio Sanità Tuscia</h4>
+      <div class="event-tags">
+        <span class="event-tag">presidio</span>
+        <span class="event-tag">sanità</span>
+      </div>
+    </div>
     <div class="event-item filterDiv convegno palestina">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-02-08 - Convegno Viterbo.jpeg">
       <h4>08-02-2026 - Convegno "Sabotiamo la Guerra e la Repressione"</h4>
@@ -57,6 +73,13 @@ css: "/assets/css/index.css"
   <div class="year-section" id="year-2025">
     <div class="year-header">
       <h2 class="year-title">2025</h2>
+    </div>
+    <div class="event-item filterDiv sanità">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-11-16 - Presentazione OST.jpg">
+      <h4>16-11-2025 - Presentazione dell'Osservatorio Sanità Tuscia</h4>
+      <div class="event-tags">
+        <span class="event-tag">sanità</span>
+      </div>
     </div>
     <div class="event-item filterDiv palestina proiezione">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-10-26 - Proiezione Anan.jpg">

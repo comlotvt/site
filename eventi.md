@@ -350,6 +350,58 @@ css: "/assets/css/index.css"
   </div>
 </div>
 
+<div class="events-timeline container">
+  <div class="year-section" id="year-2022">
+    <div class="year-header">
+      <h2 class="year-title">2022</h2>
+    </div>
+    <div class="event-item filterDiv corteo guerra">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2022-12-02 - Corteo Viterbo.jpg">
+      <h4>02-12-2022 - Corteo contro la guerra e il carovita</h4>
+      <div class="event-tags">
+        <span class="event-tag">corteo</span>
+        <span class="event-tag">guerra</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv sanità">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2022-11-13 - Presentazione Opuscolo.jpg">
+      <h4>13-11-2022 - Presentazione opuscolo sul tumore al seno</h4>
+      <div class="event-tags">
+        <span class="event-tag">sanità</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv guerra">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2022-06-25 - Iniziativa Transizione Energetica.jpg">
+      <h4>25-06-2022 - Iniziativa "Transizione energetica e scenari di guerra" con Giorgio Ferrari</h4>
+      <div class="event-tags">
+        <span class="event-tag">guerra</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv corteo lavoro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2022-05-01 - Corteo 1 Maggio.jpg">
+      <h4>01-05-2022 - Corteo per il 1 Maggio</h4>
+      <div class="event-tags">
+        <span class="event-tag">corteo</span>
+        <span class="event-tag">lavoro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv femminismo">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2022-03-08 - Presidio Viterbo.jpg">
+      <h4>08-03-2022 - Manifestazione "Toccano una, toccano tutte"</h4>
+      <div class="event-tags">
+        <span class="event-tag">femminismo</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv assemblea">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2022-01-08 - Assemblea Tuscia in Lotta.jpg">
+      <h4>08-01-2022 - Assemblea di presentazione "Tuscia in Lotta"</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+      </div>
+    </div>
+  </div>
+</div>
+
 <script>
 filterSelection("all")
 function filterSelection(c) {

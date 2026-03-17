@@ -276,11 +276,11 @@ css: "/assets/css/index.css"
         <span class="event-tag">sanità</span>
       </div>
     </div>
-    <div class="event-item filterDiv palestina presidio">
+    <div class="event-item filterDiv guerra presidio">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-06-23 - Presidio Rheinmetall.jpg">
-      <h4>23-06-2023 - Presentazione del libro "La Rivolta del 1936-1939 in Palestina" di Ghassan Kanafani e proiezione di "Bread and Butter" di Marwah Jbara-Tibi</h4>
+      <h4>23-06-2023 - Presidio contro l'economia di guerra sotto a Rheinmetall</h4>
       <div class="event-tags">
-        <span class="event-tag">palestina</span>
+        <span class="event-tag">guerra</span>
         <span class="event-tag">presidio</span>
       </div>
     </div>
@@ -302,14 +302,14 @@ css: "/assets/css/index.css"
     </div>
     <div class="event-item filterDiv femminismo">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-04-15 - Iniziativa Femminismo.jpg">
-      <h4>15-04-2023 - "Quale Femminismo Oggi?" con Carla Filosa</h4>
+      <h4>15-04-2023 - "Quale femminismo oggi?" con Carla Filosa</h4>
       <div class="event-tags">
         <span class="event-tag">femminismo</span>
       </div>
     </div>
     <div class="event-item filterDiv presidio sanità">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-04-07 - Presidio Giovanni Paolo I.jpg">
-      <h4>07-04-2023 - Presidio per la sanità</h4>
+      <h4>07-04-2023 - Presidio contro le spese militari e per la sanità</h4>
       <div class="event-tags">
         <span class="event-tag">presidio</span>
         <span class="event-tag">sanità</span>
@@ -317,7 +317,7 @@ css: "/assets/css/index.css"
     </div>
     <div class="event-item filterDiv guerra presidio">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-02-04 - Presidio ENI.jpg">
-      <h4>04-02-2023 - Presidio contro finanziamenti militari</h4>
+      <h4>04-02-2023 - Presidio contro i finanziamenti militari</h4>
       <div class="event-tags">
         <span class="event-tag">guerra</span>
         <span class="event-tag">presidio</span>

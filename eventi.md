@@ -7,9 +7,11 @@ css: "/assets/css/index.css"
 <div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')">Mostra tutti</button>
   <button class="btn" onclick="filterSelection('assemblea')">Assemblea</button>
-  <button class="btn" onclick="filterSelection('carcere')">Carcere</button>
   <button class="btn" onclick="filterSelection('convegno')">Convegno</button>
   <button class="btn" onclick="filterSelection('corteo')">Corteo</button>
+  <button class="btn" onclick="filterSelection('femminismo')">Femminismo</button>
+  <button class="btn" onclick="filterSelection('guerra')">Guerra</button>
+  <button class="btn" onclick="filterSelection('immigrazione')">Immigrazione</button>
   <button class="btn" onclick="filterSelection('lavoro')">Lavoro</button>
   <button class="btn" onclick="filterSelection('libro')">Libro</button>
   <button class="btn" onclick="filterSelection('palestina')">Palestina</button>
@@ -144,17 +146,18 @@ css: "/assets/css/index.css"
     <div class="year-header">
       <h2 class="year-title">2024</h2>
     </div>
-    <div class="event-item filterDiv assemblea palestina">
+    <div class="event-item filterDiv assemblea guerra palestina">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-09-28 - Iniziativa Ucraina e Gaza.jpg">
       <h4>28-09-2024 - Assemblea pubblica sulle guerre in Ucraina e Palestina</h4>
       <div class="event-tags">
         <span class="event-tag">assemblea</span>
+        <span class="event-tag">guerra</span>
         <span class="event-tag">palestina</span>
       </div>
     </div>
     <div class="event-item filterDiv assemblea repressione">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-09-21 - Iniziativa DDL1660.jpg">
-      <h4>21-09-2024 - Assemblea pubblica sul DDL 1660</h4>
+      <h4>21-09-2024 - Assemblea pubblica sul DDL 1660 con Leonardo Pompili</h4>
       <div class="event-tags">
         <span class="event-tag">assemblea</span>
         <span class="event-tag">repressione</span>
@@ -185,19 +188,19 @@ css: "/assets/css/index.css"
         <span class="event-tag">presidio</span>
       </div>
     </div>
-    <div class="event-item filterDiv corteo lavoro">
+    <div class="event-item filterDiv corteo lavoro palestina">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-05-01 - Corteo 1 Maggio.jpg">
       <h4>01-05-2024 - Corteo per il 1 Maggio</h4>
       <div class="event-tags">
         <span class="event-tag">corteo</span>
         <span class="event-tag">lavoro</span>
+        <span class="event-tag">palestina</span>
       </div>
     </div>
-    <div class="event-item filterDiv carcere libro repressione">
+    <div class="event-item filterDiv libro repressione">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-04-27 - Presentazione Libro.jpg">
       <h4>27-04-2024 - Presentazione del libro "L'Aria Brucia" di Antonio Susca e Giancarla Rotondi</h4>
       <div class="event-tags">
-        <span class="event-tag">carcere</span>
         <span class="event-tag">libro</span>
         <span class="event-tag">repressione</span>
       </div>
@@ -238,6 +241,94 @@ css: "/assets/css/index.css"
       <div class="event-tags">
         <span class="event-tag">palestina</span>
         <span class="event-tag">presidio</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="events-timeline container">
+  <div class="year-section" id="year-2023">
+    <div class="year-header">
+      <h2 class="year-title">2023</h2>
+    </div>
+    <div class="event-item filterDiv immigrazione lavoro libro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-11-15 - Presentazione Libro.jpg">
+      <h4>15-11-2023 - Presentazione del libro "La Spoon River dei braccianti" di Antonello Mangano</h4>
+      <div class="event-tags">
+        <span class="event-tag">immigrazione</span>
+        <span class="event-tag">lavoro</span>
+        <span class="event-tag">libro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv corteo lavoro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-10-20 - Presidio Viterbo.jpg">
+      <h4>20-10-2023 - Presidio in vista del corteo nazionale del 21-10-2023</h4>
+      <div class="event-tags">
+        <span class="event-tag">corteo</span>
+        <span class="event-tag">lavoro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv proiezione sanità">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-09-23 - Proiezione Film.jpg">
+      <h4>23-09-2023 - Proiezione del film "C'era una volta in Italia" di Federico Grieco e Mirko Melchiorre</h4>
+      <div class="event-tags">
+        <span class="event-tag">proiezione</span>
+        <span class="event-tag">sanità</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv palestina presidio">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-06-23 - Presidio Rheinmetall.jpg">
+      <h4>23-06-2023 - Presentazione del libro "La Rivolta del 1936-1939 in Palestina" di Ghassan Kanafani e proiezione di "Bread and Butter" di Marwah Jbara-Tibi</h4>
+      <div class="event-tags">
+        <span class="event-tag">palestina</span>
+        <span class="event-tag">presidio</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv corteo lavoro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-05-01 - Corteo 1 Maggio.jpg">
+      <h4>01-05-2023 - Corteo per il 1 Maggio</h4>
+      <div class="event-tags">
+        <span class="event-tag">corteo</span>
+        <span class="event-tag">lavoro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv guerra libro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-04-29 - Presentazione Libro.jpg">
+      <h4>29-04-2023 - Presentazione del libro "La Guerra in Ucraina e l'Internazionalismo Proletario" con Pietro Basso</h4>
+      <div class="event-tags">
+        <span class="event-tag">guerra</span>
+        <span class="event-tag">libro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv femminismo">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-04-15 - Iniziativa Femminismo.jpg">
+      <h4>15-04-2023 - "Quale Femminismo Oggi?" con Carla Filosa</h4>
+      <div class="event-tags">
+        <span class="event-tag">femminismo</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv presidio sanità">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-04-07 - Presidio Giovanni Paolo I.jpg">
+      <h4>07-04-2023 - Presidio per la sanità</h4>
+      <div class="event-tags">
+        <span class="event-tag">presidio</span>
+        <span class="event-tag">sanità</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv guerra presidio">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-02-04 - Presidio ENI.jpg">
+      <h4>04-02-2023 - Presidio contro finanziamenti militari</h4>
+      <div class="event-tags">
+        <span class="event-tag">guerra</span>
+        <span class="event-tag">presidio</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv assemblea repressione">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-01-14 - Iniziativa 41bis.jpg">
+      <h4>14-01-2023 - Assemblea pubblica "Repressione e Civiltà" sul 41bis con Flavio Rossi Albertini e Alfredo Davanzo</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+        <span class="event-tag">repressione</span>
       </div>
     </div>
   </div>

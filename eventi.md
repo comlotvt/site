@@ -259,6 +259,14 @@ css: "/assets/css/index.css"
     <div class="year-header">
       <h2 class="year-title">2023</h2>
     </div>
+    <div class="event-item filterDiv assemblea palestina">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-12-17 - Assemblea Palestina.jpg">
+      <h4>17-12-2023 - Assemblea pubblica sul conflitto in Palestina</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+        <span class="event-tag">palestina</span>
+      </div>
+    </div>
     <div class="event-item filterDiv immigrazione lavoro libro">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-11-15 - Presentazione Libro.jpg">
       <h4>15-11-2023 - Presentazione del libro "La Spoon River dei braccianti" di Antonello Mangano</h4>

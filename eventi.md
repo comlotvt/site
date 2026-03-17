@@ -6,6 +6,8 @@ css: "/assets/css/index.css"
 
 <div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')">Mostra tutti</button>
+  <button class="btn" onclick="filterSelection('assemblea')">Assemblea</button>
+  <button class="btn" onclick="filterSelection('carcere')">Carcere</button>
   <button class="btn" onclick="filterSelection('convegno')">Convegno</button>
   <button class="btn" onclick="filterSelection('corteo')">Corteo</button>
   <button class="btn" onclick="filterSelection('lavoro')">Lavoro</button>
@@ -13,6 +15,8 @@ css: "/assets/css/index.css"
   <button class="btn" onclick="filterSelection('palestina')">Palestina</button>
   <button class="btn" onclick="filterSelection('presidio')">Presidio</button>
   <button class="btn" onclick="filterSelection('proiezione')">Proiezione</button>
+  <button class="btn" onclick="filterSelection('repressione')">Repressione</button>
+  <button class="btn" onclick="filterSelection('sanità')">Sanità</button>
 </div>
 
 <div class="events-timeline container">
@@ -130,6 +134,110 @@ css: "/assets/css/index.css"
       <div class="event-tags">
         <span class="event-tag">corteo</span>
         <span class="event-tag">palestina</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="events-timeline container">
+  <div class="year-section" id="year-2024">
+    <div class="year-header">
+      <h2 class="year-title">2024</h2>
+    </div>
+    <div class="event-item filterDiv assemblea palestina">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-09-28 - Iniziativa Ucraina e Gaza.jpg">
+      <h4>28-09-2024 - Assemblea pubblica sulle guerre in Ucraina e Palestina</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+        <span class="event-tag">palestina</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv assemblea repressione">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-09-21 - Iniziativa DDL1660.jpg">
+      <h4>21-09-2024 - Assemblea pubblica sul DDL 1660</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+        <span class="event-tag">repressione</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv palestina presidio">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-07-26 - Iniziativa Aquiloni.jpg">
+      <h4>26-07-2024 - Presidio contro il genocidio in Palestina</h4>
+      <div class="event-tags">
+        <span class="event-tag">palestina</span>
+        <span class="event-tag">presidio</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv libro palestina proiezione">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-06-21 - Presentazione Libro.jpg">
+      <h4>21-06-2024 - Presentazione del libro "La Rivolta del 1936-1939 in Palestina" di Ghassan Kanafani e proiezione di "Bread and Butter" di Marwah Jbara-Tibi</h4>
+      <div class="event-tags">
+        <span class="event-tag">libro</span>
+        <span class="event-tag">palestina</span>
+        <span class="event-tag">proiezione</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv palestina presidio">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-06-01 - Presidio Orte.jpg">
+      <h4>01-06-2024 - Presidio contro il genocidio in Palestina</h4>
+      <div class="event-tags">
+        <span class="event-tag">palestina</span>
+        <span class="event-tag">presidio</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv corteo lavoro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-05-01 - Corteo 1 Maggio.jpg">
+      <h4>01-05-2024 - Corteo per il 1 Maggio</h4>
+      <div class="event-tags">
+        <span class="event-tag">corteo</span>
+        <span class="event-tag">lavoro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv carcere libro repressione">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-04-27 - Presentazione Libro.jpg">
+      <h4>27-04-2024 - Presentazione del libro "L'Aria Brucia" di Antonio Susca e Giancarla Rotondi</h4>
+      <div class="event-tags">
+        <span class="event-tag">carcere</span>
+        <span class="event-tag">libro</span>
+        <span class="event-tag">repressione</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv sanità">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-03-21 - Presentazione Carovana Viterbo.jpg">
+      <h4>21-03-2024 - Presentazione della carovana salva visite - Viterbo</h4>
+      <div class="event-tags">
+        <span class="event-tag">sanità</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv palestina presidio">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-03-02 - Presidio Viterbo.jpg">
+      <h4>02-03-2024 - Presidio contro il genocidio in Palestina</h4>
+      <div class="event-tags">
+        <span class="event-tag">palestina</span>
+        <span class="event-tag">presidio</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv libro palestina">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-02-25 - Presentazione Libro.jpg">
+      <h4>25-02-2024 - Presentazione del libro "Come si Liquida un Popolo" di Diana Carminati</h4>
+      <div class="event-tags">
+        <span class="event-tag">libro</span>
+        <span class="event-tag">palestina</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv sanità">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-02-17 - Presentazione Carovana Ronciglione.jpg">
+      <h4>17-02-2024 - Presentazione della carovana salva visite - Ronciglione</h4>
+      <div class="event-tags">
+        <span class="event-tag">sanità</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv palestina presidio">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-02-03 - Presidio Viterbo.jpg">
+      <h4>03-02-2024 - Presidio contro il genocidio in Palestina</h4>
+      <div class="event-tags">
+        <span class="event-tag">palestina</span>
+        <span class="event-tag">presidio</span>
       </div>
     </div>
   </div>

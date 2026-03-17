@@ -425,6 +425,96 @@ css: "/assets/css/index.css"
   </div>
 </div>
 
+<div class="events-timeline container">
+  <div class="year-section" id="year-2021">
+    <div class="year-header">
+      <h2 class="year-title">2021</h2>
+    </div>
+    <div class="event-item filterDiv presidio">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2021-10-11 - Presidio Viterbo.jpg">
+      <h4>11-10-2021 - Presidio contro il carovita</h4>
+      <div class="event-tags">
+        <span class="event-tag">presidio</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv presidio">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2021-10 - Sciopero.jpg">
+      <h4>10-2021 - Verso lo sciopero dell'11 Ottobre</h4>
+      <div class="event-tags">
+        <span class="event-tag">presidio</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv lavoro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2021-09-25 - Aperitivo GKN.jpg">
+      <h4>25-09-2021 - Aperitivo benefit per la GKN</h4>
+      <div class="event-tags">
+        <span class="event-tag">lavoro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv assemblea">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2021-07-18 - Iniziativa G8.jpg">
+      <h4>18-07-2021 - Assemblea pubblica "La lezione di Genova: 20 anni dopo" con Enrico Serventi Longhi</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv lavoro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2021-07-03 - Aperitivo Adil.jpg">
+      <h4>03-07-2021 - Aperitivo benefit per Adil</h4>
+      <div class="event-tags">
+        <span class="event-tag">lavoro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv lavoro libro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2021-06-05 - Presentazione Opuscolo.jpg">
+      <h4>05-06-2021 - Presentazione opuscolo "Il marxismo e la questione fiscale" con Coalizione Operaia</h4>
+      <div class="event-tags">
+        <span class="event-tag">lavoro</span>
+        <span class="event-tag">libro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv presidio sanità">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2021-05-15 - Presidio Ronciglione.jpg">
+      <h4>15-05-2021 - Presidio per la sanità</h4>
+      <div class="event-tags">
+        <span class="event-tag">presidio</span>
+        <span class="event-tag">sanità</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv corteo lavoro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2021-05-01 - Corteo 1 Maggio.jpg">
+      <h4>01-05-2021 - Corteo per il 1 Maggio</h4>
+      <div class="event-tags">
+        <span class="event-tag">corteo</span>
+        <span class="event-tag">lavoro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv presidio repressione">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2021-04-05 - Presidio Documenti.jpg">
+      <h4>05-04-2021 - Presidio "Documenti per tutte/i, repressione per nessuna/o"</h4>
+      <div class="event-tags">
+        <span class="event-tag">presidio</span>
+        <span class="event-tag">repressione</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv femminismo">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2021-03-08 - Sciopero.jpg">
+      <h4>08-03-2021 - Sciopero contro patriarcato, razzismo e capitalismo</h4>
+      <div class="event-tags">
+        <span class="event-tag">femminismo</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv lavoro presidio">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2021-01-30 - Presidio Viterbo.jpg">
+      <h4>30-01-2021 - Assemblea di presentazione "Tuscia in Lotta"</h4>
+      <div class="event-tags">
+        <span class="event-tag">lavoro</span>
+        <span class="event-tag">presidio</span>
+      </div>
+    </div>
+  </div>
+</div>
+
 <script>
 filterSelection("all")
 function filterSelection(c) {

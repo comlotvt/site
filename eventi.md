@@ -138,6 +138,14 @@ css: "/assets/css/index.css"
         <span class="event-tag">palestina</span>
       </div>
     </div>
+    <div class="event-item filterDiv libro palestina">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-01-26 - Presentazione Libro.jpg">
+      <h4>26-01-2025 - Presentazione del libro "Il Sionismo è Nazismo" di Francesco Lazzeri</h4>
+      <div class="event-tags">
+        <span class="event-tag">libro</span>
+        <span class="event-tag">palestina</span>
+      </div>
+    </div>
   </div>
 </div>
 

@@ -489,10 +489,11 @@ css: "/assets/css/index.css"
         <span class="event-tag">lavoro</span>
       </div>
     </div>
-    <div class="event-item filterDiv presidio repressione">
+    <div class="event-item filterDiv immigrazione presidio repressione">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2021-04-05 - Presidio Documenti.jpg">
       <h4>05-04-2021 - Presidio "Documenti per tutte/i, repressione per nessuna/o"</h4>
       <div class="event-tags">
+        <span class="event-tag">immigrazione</span>
         <span class="event-tag">presidio</span>
         <span class="event-tag">repressione</span>
       </div>
@@ -558,6 +559,22 @@ css: "/assets/css/index.css"
         <span class="event-tag">corteo</span>
         <span class="event-tag">lavoro</span>
         <span class="event-tag">sanità</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv assemblea lavoro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2020-01-25 - Iniziativa Euro2020.jpg">
+      <h4>25-01-2020 - Presentazione della campagna contro il lavoro gratuito agli europei del 2020</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+        <span class="event-tag">lavoro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv immigrazione libro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2020-01-11 - Disegni dalla Frontiera.jpg">
+      <h4>11-01-2020 - Presentazione del libro "Disegni dalla Frontiera" di Francesco Piobbichi con l'autore e Ibrahima Diabate</h4>
+      <div class="event-tags">
+        <span class="event-tag">immigrazione</span>
+        <span class="event-tag">libro</span>
       </div>
     </div>
   </div>

@@ -115,7 +115,7 @@ css: "/assets/css/index.css"
     </div>
     <div class="event-item filterDiv libro palestina">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-06-14 - Presentazione Libro.jpg">
-      <h4>14-06-2025 - Presentazione del libro "Senza Stato" di Rosalba Belmonte</h4>
+      <h4>14-06-2025 - Presentazione del libro "Senza Stato" di e con Rosalba Belmonte</h4>
       <div class="event-tags">
         <span class="event-tag">libro</span>
         <span class="event-tag">palestina</span>
@@ -131,7 +131,7 @@ css: "/assets/css/index.css"
     </div>
     <div class="event-item filterDiv lavoro libro">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-05-10 - Presentazione Libro.jpg">
-      <h4>10-05-2025 - Presentazione del libro "L'Attacco degli Imprenditori" di Emiliano Gentili</h4>
+      <h4>10-05-2025 - Presentazione del libro "L'Attacco degli Imprenditori" di e con Emiliano Gentili</h4>
       <div class="event-tags">
         <span class="event-tag">lavoro</span>
         <span class="event-tag">libro</span>
@@ -147,7 +147,7 @@ css: "/assets/css/index.css"
     </div>
     <div class="event-item filterDiv libro palestina">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-03-15 - Presentazione Libro.jpg">
-      <h4>15-03-2025 - Presentazione del libro "Ignorare l'Assenza" di Valeria Roma</h4>
+      <h4>15-03-2025 - Presentazione del libro "Ignorare l'Assenza" di e con Valeria Roma</h4>
       <div class="event-tags">
         <span class="event-tag">libro</span>
         <span class="event-tag">palestina</span>
@@ -163,7 +163,7 @@ css: "/assets/css/index.css"
     </div>
     <div class="event-item filterDiv libro palestina">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-01-26 - Presentazione Libro.jpg">
-      <h4>26-01-2025 - Presentazione del libro "Il Sionismo è Nazismo" di Francesco Lazzeri</h4>
+      <h4>26-01-2025 - Presentazione del libro "Il Sionismo è Nazismo" di e con Francesco Lazzeri</h4>
       <div class="event-tags">
         <span class="event-tag">libro</span>
         <span class="event-tag">palestina</span>
@@ -204,7 +204,7 @@ css: "/assets/css/index.css"
     </div>
     <div class="event-item filterDiv libro palestina proiezione">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-06-21 - Presentazione Libro.jpg">
-      <h4>21-06-2024 - Presentazione del libro "La Rivolta del 1936-1939 in Palestina" di Ghassan Kanafani e proiezione di "Bread and Butter" di Marwah Jbara-Tibi</h4>
+      <h4>21-06-2024 - Presentazione del libro "La Rivolta del 1936-1939 in Palestina" di Ghassan Kanafani con Khaled El Qaisi e proiezione di "Bread and Butter" di Marwah Jbara-Tibi</h4>
       <div class="event-tags">
         <span class="event-tag">libro</span>
         <span class="event-tag">palestina</span>
@@ -230,7 +230,7 @@ css: "/assets/css/index.css"
     </div>
     <div class="event-item filterDiv libro repressione">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-04-27 - Presentazione Libro.jpg">
-      <h4>27-04-2024 - Presentazione del libro "L'Aria Brucia" di Antonio Susca e Giancarla Rotondi</h4>
+      <h4>27-04-2024 - Presentazione del libro "L'Aria Brucia" di e con Antonio Susca e Giancarla Rotondi</h4>
       <div class="event-tags">
         <span class="event-tag">libro</span>
         <span class="event-tag">repressione</span>
@@ -253,7 +253,7 @@ css: "/assets/css/index.css"
     </div>
     <div class="event-item filterDiv libro palestina">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-02-25 - Presentazione Libro.jpg">
-      <h4>25-02-2024 - Presentazione del libro "Come si Liquida un Popolo" di Diana Carminati</h4>
+      <h4>25-02-2024 - Presentazione del libro "Come si Liquida un Popolo" di e con Diana Carminati</h4>
       <div class="event-tags">
         <span class="event-tag">libro</span>
         <span class="event-tag">palestina</span>
@@ -292,7 +292,7 @@ css: "/assets/css/index.css"
     </div>
     <div class="event-item filterDiv immigrazione lavoro libro">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-11-15 - Presentazione Libro.jpg">
-      <h4>15-11-2023 - Presentazione del libro "La Spoon River dei braccianti" di Antonello Mangano</h4>
+      <h4>15-11-2023 - Presentazione del libro "La Spoon River dei braccianti" di e con Antonello Mangano</h4>
       <div class="event-tags">
         <span class="event-tag">immigrazione</span>
         <span class="event-tag">lavoro</span>
@@ -575,6 +575,111 @@ css: "/assets/css/index.css"
       <div class="event-tags">
         <span class="event-tag">immigrazione</span>
         <span class="event-tag">libro</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="events-timeline container">
+  <div class="year-section" id="year-2019">
+    <div class="year-header">
+      <h2 class="year-title">2019</h2>
+    </div>
+    <div class="event-item filterDiv assemblea">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2019-10-12 - Iniziativa Autunno Caldo.jpg">
+      <h4>12-10-2019 - Assemblea "A 50 anni dall'autunno caldo" con n+1</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv assemblea">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2019-09-16 - Iniziativa Punk Hardcore.jpg">
+      <h4>16-09-2019 - Assemblea "La grande truffa del punk hardcore" su sottocultura e politica</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv presidio repressione">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2019-06-22 - Presidio 41bis.jpg">
+      <h4>22-06-2019 - Presidio contro il 41bis come misura di repressione politica</h4>
+      <div class="event-tags">
+        <span class="event-tag">presidio</span>
+        <span class="event-tag">repressione</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv lavoro libro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2019-06-16 - Iniziativa N+1.jpg">
+      <h4>16-06-2019 - "Robotica e Valorizzazione", quarto incontro a cura della rivista n+1</h4>
+      <div class="event-tags">
+        <span class="event-tag">lavoro</span>
+        <span class="event-tag">libro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv assemblea">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2019-06-02 - Iniziativa Euroastensionismo.jpg">
+      <h4>02-06-2019 - Assemblea di chiusura della campagna euroastensionista</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv libro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2019-05-25 - Presentazione Libro.jpg">
+      <h4>25-05-2019 - Presentazione del libro "Il cuore divelto" di Monica Rage à part con l'autrice e Michele di Edizioni Monte Bove</h4>
+      <div class="event-tags">
+        <span class="event-tag">libro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv libro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2019-05-11 - Iniziativa N+1.jpg">
+      <h4>11-05-2019 - "Il trasformismo storico della borghesia più vecchia del mondo: quella italiana", terzo incontro a cura della rivista n+1</h4>
+      <div class="event-tags">
+        <span class="event-tag">libro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv presidio repressione">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2019-05-09 - Presidio Tribunale.jpg">
+      <h4>09-05-2019 - Presidio contro la società-galera di fronte al tribunale di Viterbo</h4>
+      <div class="event-tags">
+        <span class="event-tag">presidio</span>
+        <span class="event-tag">repressione</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv corteo lavoro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2019-05-01 - Corteo 1 Maggio.jpg">
+      <h4>01-05-2019 - Corteo per il 1 Maggio</h4>
+      <div class="event-tags">
+        <span class="event-tag">corteo</span>
+        <span class="event-tag">lavoro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv lavoro libro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2019-04-14 - Iniziativa N+1.jpg">
+      <h4>14-04-2019 - "Storia e critica dell'operaismo italiano", secondo incontro a cura della rivista n+1</h4>
+      <div class="event-tags">
+        <span class="event-tag">lavoro</span>
+        <span class="event-tag">libro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv assemblea">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2019-04-13 - Iniziativa Euroastensionismo.jpg">
+      <h4>13-04-2019 - Presentazione della campagna euroastensionista</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv libro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2019-03-24 - Iniziativa N+1.jpg">
+      <h4>24-03-2019 - "La socializzazione fascista e il comunismo", primo incontro a cura della rivista n+1</h4>
+      <div class="event-tags">
+        <span class="event-tag">libro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv assemblea repressione">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2019-03-02 - Iniziativa Repressione e Civiltà.jpg">
+      <h4>02-03-2019 - Assemblea pubblica "Repressione e Civiltà" sul Daspo urbano con l'avvocato Leonardo Pompili</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+        <span class="event-tag">repressione</span>
       </div>
     </div>
   </div>

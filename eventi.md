@@ -515,6 +515,54 @@ css: "/assets/css/index.css"
   </div>
 </div>
 
+<div class="events-timeline container">
+  <div class="year-section" id="year-2020">
+    <div class="year-header">
+      <h2 class="year-title">2020</h2>
+    </div>
+    <div class="event-item filterDiv presidio sanità">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2020-12-19 - Presidio Ronciglione.jpg">
+      <h4>19-12-2020 - Presidio per la riapertura di ospedali e pronto soccorso - Ronciglione</h4>
+      <div class="event-tags">
+        <span class="event-tag">presidio</span>
+        <span class="event-tag">sanità</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv presidio sanità">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2020-11-28 - Presidio Belcolle.jpg">
+      <h4>28-11-2020 - Presidio per una sanità universale, efficiente e gratuita - Viterbo</h4>
+      <div class="event-tags">
+        <span class="event-tag">presidio</span>
+        <span class="event-tag">sanità</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv lavoro presidio">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2020-10-24 - Presidio Unindustria.jpg">
+      <h4>24-10-2020 - Presidio di fronte alla sede di Unindustria - Viterbo</h4>
+      <div class="event-tags">
+        <span class="event-tag">lavoro</span>
+        <span class="event-tag">presidio</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv lavoro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2020-10-10 - Presentazione SI Cobas Viterbo.jpg">
+      <h4>10-10-2020 - Presentazione della sede di Viterbo del SI Cobas</h4>
+      <div class="event-tags">
+        <span class="event-tag">lavoro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv corteo lavoro sanità">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2020-06-02 - Corteo COVID.jpg">
+      <h4>02-06-2020 - Corteo contro la crisi post-COVID</h4>
+      <div class="event-tags">
+        <span class="event-tag">corteo</span>
+        <span class="event-tag">lavoro</span>
+        <span class="event-tag">sanità</span>
+      </div>
+    </div>
+  </div>
+</div>
+
 <script>
 filterSelection("all")
 function filterSelection(c) {

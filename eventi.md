@@ -28,52 +28,52 @@ css: "/assets/css/index.css"
 <div class="events-timeline container">
   <div class="year-section" id="year-2026">  
     <details>
-    <summary class="year-header">
-      <h2 class="year-title">2026</h2>
-    </summary>
-    <div class="event-item filterDiv assemblea guerra">
-      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-03-22 - Assemblea Iran.jpeg">
-      <h4>22-03-2026 - Assemblea pubblica sull'aggressione imperialista all'Iran</h4>
-      <div class="event-tags">
-        <span class="event-tag">assemblea</span>
-        <span class="event-tag">guerra</span>
+      <summary class="year-header">
+        <h2 class="year-title">2026</h2>
+      </summary>
+      <div class="event-item filterDiv assemblea guerra">
+        <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-03-22 - Assemblea Iran.jpeg">
+        <h4>22-03-2026 - Assemblea pubblica sull'aggressione imperialista all'Iran</h4>
+        <div class="event-tags">
+          <span class="event-tag">assemblea</span>
+          <span class="event-tag">guerra</span>
+        </div>
       </div>
-    </div>
-    <div class="event-item filterDiv presidio sanità">
-      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-03-07 - Iniziativa OST.jpg">
-      <h4>07-03-2026 - Presidio informativo dell'Osservatorio Sanità Tuscia</h4>
-      <div class="event-tags">
-        <span class="event-tag">presidio</span>
-        <span class="event-tag">sanità</span>
+      <div class="event-item filterDiv presidio sanità">
+        <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-03-07 - Iniziativa OST.jpg">
+        <h4>07-03-2026 - Presidio informativo dell'Osservatorio Sanità Tuscia</h4>
+        <div class="event-tags">
+          <span class="event-tag">presidio</span>
+          <span class="event-tag">sanità</span>
+        </div>
       </div>
-    </div>
-    <div class="event-item filterDiv convegno palestina">
-      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-02-08 - Convegno Viterbo.jpeg">
-      <h4>08-02-2026 - Convegno "Sabotiamo la Guerra e la Repressione"</h4>
-      <div class="event-tags">
-        <span class="event-tag">convegno</span>
-        <span class="event-tag">palestina</span>
+      <div class="event-item filterDiv convegno palestina">
+        <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-02-08 - Convegno Viterbo.jpeg">
+        <h4>08-02-2026 - Convegno "Sabotiamo la Guerra e la Repressione"</h4>
+        <div class="event-tags">
+          <span class="event-tag">convegno</span>
+          <span class="event-tag">palestina</span>
+        </div>
       </div>
-    </div>
-    <div class="event-item filterDiv corteo palestina">
-      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-02-07 - Corteo Viterbo.jpg">
-      <h4>07-02-2026 - Corteo "Sabotiamo la Guerra e la Repressione"</h4>
-      <div class="event-tags">
-        <span class="event-tag">corteo</span>
-        <span class="event-tag">palestina</span>
+      <div class="event-item filterDiv corteo palestina">
+        <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-02-07 - Corteo Viterbo.jpg">
+        <h4>07-02-2026 - Corteo "Sabotiamo la Guerra e la Repressione"</h4>
+        <div class="event-tags">
+          <span class="event-tag">corteo</span>
+          <span class="event-tag">palestina</span>
+        </div>
       </div>
-    </div>
-    <div class="event-item filterDiv palestina presidio">
-      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-01-24 - Presidio Viterbo.jpg">
-      <h4>24-01-2026 - Presidio contro il DDL Gasparri - Delrio</h4>
-      <div class="event-tags">
-        <span class="event-tag">palestina</span>
-        <span class="event-tag">presidio</span>
+      <div class="event-item filterDiv palestina presidio">
+        <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-01-24 - Presidio Viterbo.jpg">
+        <h4>24-01-2026 - Presidio contro il DDL Gasparri - Delrio</h4>
+        <div class="event-tags">
+          <span class="event-tag">palestina</span>
+          <span class="event-tag">presidio</span>
+        </div>
       </div>
-    </div>
+    </details>
   </div>
 </div>
-</details>
 
 <div class="events-timeline container">
   <div class="year-section" id="year-2025">

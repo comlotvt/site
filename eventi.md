@@ -5,7 +5,9 @@ css: "/assets/css/index.css"
 ---
 
 <details>
-  <summary>Filtri</summary>
+  <summary class="year-header">
+    <p>Filtri</p>
+  </summary>
   <div id="myBtnContainer">
     <button class="btn active" onclick="filterSelection('all')">Mostra tutto</button>
     <button class="btn" onclick="filterSelection('acqua')">Acqua</button>
@@ -27,7 +29,7 @@ css: "/assets/css/index.css"
 
 <div class="events-timeline container">
   <div class="year-section" id="year-2026">  
-    <details>
+    <details open ="">
       <summary class="year-header">
         <h2 class="year-title">2026</h2>
       </summary>

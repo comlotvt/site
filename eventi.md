@@ -188,7 +188,7 @@ css: "/assets/css/index.css"
     </div>
     <div class="event-item filterDiv assemblea repressione">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-09-21 - Iniziativa DDL1660.jpg">
-      <h4>21-09-2024 - Assemblea pubblica sul DDL 1660 con Leonardo Pompili</h4>
+      <h4>21-09-2024 - Assemblea pubblica sul DDL 1660 con l'avvocato Leonardo Pompili</h4>
       <div class="event-tags">
         <span class="event-tag">assemblea</span>
         <span class="event-tag">repressione</span>
@@ -680,6 +680,51 @@ css: "/assets/css/index.css"
       <div class="event-tags">
         <span class="event-tag">assemblea</span>
         <span class="event-tag">repressione</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="events-timeline container">
+  <div class="year-section" id="year-2018">
+    <div class="year-header">
+      <h2 class="year-title">2018</h2>
+    </div>
+    <div class="event-item filterDiv assemblea">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2018-10-06 - Iniziativa Scuola.jpg">
+      <h4>06-10-2018 - Assemblea sulla scuola</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv assemblea">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2018-05-19 - Iniziativa 1968.jpg">
+      <h4>19-05-2018 - Assemblea "Il '68: tra modernizzazione capitalistica e rivoluzione" con n+1</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv corteo lavoro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2018-05-01 Corteo 1 Maggio_1.jpg">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2018-05-01 Corteo 1 Maggio_2.jpg">
+      <h4>01-05-2018 - Corteo per il 1 Maggio</h4>
+      <div class="event-tags">
+        <span class="event-tag">corteo</span>
+        <span class="event-tag">lavoro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv libro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2018-04-21 - Presentazione Montebove.jpg">
+      <h4>21-04-2018 - Presentazione della casa editrice "Monte Bove"</h4>
+      <div class="event-tags">
+        <span class="event-tag">libro</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv libro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2018-03-24 - Presentazione Libro.jpg">
+      <h4>24-03-2018 - Presentazione del libro "Contro l'anarchismo di stato" di Agustín Guillamón con Dino Erba</h4>
+      <div class="event-tags">
+        <span class="event-tag">libro</span>
       </div>
     </div>
   </div>

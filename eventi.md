@@ -7,7 +7,7 @@ css: "/assets/css/index.css"
 <details>
   <summary>Filtri</summary>
   <div id="myBtnContainer">
-    <button class="btn active" onclick="filterSelection('all')">Mostra tutti</button>
+    <button class="btn active" onclick="filterSelection('all')">Mostra tutto</button>
     <button class="btn" onclick="filterSelection('acqua')">Acqua</button>
     <button class="btn" onclick="filterSelection('assemblea')">Assemblea</button>
     <button class="btn" onclick="filterSelection('convegno')">Convegno</button>
@@ -25,6 +25,8 @@ css: "/assets/css/index.css"
   </div>
 </details>
 
+<details>
+  <summary>2026</summary>
 <div class="events-timeline container">
   <div class="year-section" id="year-2026">
     <div class="year-header">
@@ -72,6 +74,7 @@ css: "/assets/css/index.css"
     </div>
   </div>
 </div>
+</details>
 
 <div class="events-timeline container">
   <div class="year-section" id="year-2025">

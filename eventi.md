@@ -6,6 +6,7 @@ css: "/assets/css/index.css"
 
 <div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')">Mostra tutti</button>
+  <button class="btn" onclick="filterSelection('acqua')">Acqua</button>
   <button class="btn" onclick="filterSelection('assemblea')">Assemblea</button>
   <button class="btn" onclick="filterSelection('convegno')">Convegno</button>
   <button class="btn" onclick="filterSelection('corteo')">Corteo</button>
@@ -725,6 +726,104 @@ css: "/assets/css/index.css"
       <h4>24-03-2018 - Presentazione del libro "Contro l'anarchismo di stato" di Agustín Guillamón con Dino Erba</h4>
       <div class="event-tags">
         <span class="event-tag">libro</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="events-timeline container">
+  <div class="year-section" id="year-2017">
+    <div class="year-header">
+      <h2 class="year-title">2017</h2>
+    </div>
+    <div class="event-item filterDiv assemblea">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2017-10-21 - Iniziativa 100 Anni Ottobre Rosso.jpg">
+      <h4>21-10-2017 - Assemblea "A 100 anni dall'Ottobre rosso"</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv assemblea">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2017-09-09 - Assemblea sull'Internazionalismo.jpg">
+      <h4>09-09-2017 - Assemblea sull'internazionalismo</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv libro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2017-03-11 - Presentazione Vetriolo.jpg">
+      <h4>11-03-2017 - Presentazione della rivista "Vetriolo"</h4>
+      <div class="event-tags">
+        <span class="event-tag">libro</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="events-timeline container">
+  <div class="year-section" id="year-2016">
+    <div class="year-header">
+      <h2 class="year-title">2016</h2>
+    </div>
+    <div class="event-item filterDiv libro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2016-06-18 - Presentazione Libro.jpg">
+      <h4>18-06-2016 - Presentazione del libro "Cos'è il carcere: vademecum di resistenza" di e con Salvatore Ricciardi</h4>
+      <div class="event-tags">
+        <span class="event-tag">libro</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="events-timeline container">
+  <div class="year-section" id="year-2013">
+    <div class="year-header">
+      <h2 class="year-title">2013</h2>
+    </div>
+    <div class="event-item filterDiv corteo">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2013-10-19 - Corteo Roma.jpg">
+      <h4>19-10-2013 - Corteo contro la crisi</h4>
+      <div class="event-tags">
+        <span class="event-tag">corteo</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv acqua assemblea">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2013-06-29 - Assemblea Alimentazione.jpg">
+      <h4>29-06-2013 - Assemblea per un'alimentazione consapevole</h4>
+      <div class="event-tags">
+        <span class="event-tag">acqua</span>
+        <span class="event-tag">assemblea</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv acqua presidio">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2013-04-30 - Presidio Talete.jpg">
+      <h4>30-04-2013 - Presidio per l'acqua potabile</h4>
+      <div class="event-tags">
+        <span class="event-tag">acqua</span>
+        <span class="event-tag">presidio</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv assemblea">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2013-04-25 - Dibattito 25 Aprile.jpg">
+      <h4>25-04-2013 - Assemblea per la riscoperta della resistenza del 25 Aprile</h4>
+      <div class="event-tags">
+        <span class="event-tag">assemblea</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv acqua assemblea">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2013-03-01 - Assemblea Acqua.jpg">
+      <h4>01-03-2013 - Assemblea per l'acqua potabile</h4>
+      <div class="event-tags">
+        <span class="event-tag">acqua</span>
+        <span class="event-tag">assemblea</span>
+      </div>
+    </div>
+    <div class="event-item filterDiv acqua assemblea">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2013-02-01 - Assemblea Acqua.jpg">
+      <h4>01-02-2013 - Assemblea per il ricorso contro le bollette dell'acqua</h4>
+      <div class="event-tags">
+        <span class="event-tag">acqua</span>
+        <span class="event-tag">assemblea</span>
       </div>
     </div>
   </div>

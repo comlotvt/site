@@ -776,6 +776,22 @@ css: "/assets/css/index.css"
 </div>
 
 <div class="events-timeline container">
+  <div class="year-section" id="year-2014">
+    <div class="year-header">
+      <h2 class="year-title">2014</h2>
+    </div>
+    <div class="event-item filterDiv lavoro libro">
+      <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2014-09-26 - Presentazione Libro.jpg">
+      <h4>26-09-2014 - Presentazione del libro "Dove Sono i Nostri: lavoro, classe e movimenti nell'Italia della crisi" di Clash City Workers</h4>
+      <div class="event-tags">
+        <span class="event-tag">lavoro</span>
+        <span class="event-tag">libro</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="events-timeline container">
   <div class="year-section" id="year-2013">
     <div class="year-header">
       <h2 class="year-title">2013</h2>

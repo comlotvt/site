@@ -25,13 +25,12 @@ css: "/assets/css/index.css"
   </div>
 </details>
 
-<details>
-  <summary>2026</summary>
 <div class="events-timeline container">
-  <div class="year-section" id="year-2026">
-    <div class="year-header">
+  <div class="year-section" id="year-2026">  
+    <details>
+    <summary class="year-header">
       <h2 class="year-title">2026</h2>
-    </div>
+    </summary>
     <div class="event-item filterDiv assemblea guerra">
       <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-03-22 - Assemblea Iran.jpeg">
       <h4>22-03-2026 - Assemblea pubblica sull'aggressione imperialista all'Iran</h4>

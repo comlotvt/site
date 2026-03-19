@@ -4,23 +4,26 @@ title: Eventi
 css: "/assets/css/index.css"
 ---
 
-<div id="myBtnContainer">
-  <button class="btn active" onclick="filterSelection('all')">Mostra tutti</button>
-  <button class="btn" onclick="filterSelection('acqua')">Acqua</button>
-  <button class="btn" onclick="filterSelection('assemblea')">Assemblea</button>
-  <button class="btn" onclick="filterSelection('convegno')">Convegno</button>
-  <button class="btn" onclick="filterSelection('corteo')">Corteo</button>
-  <button class="btn" onclick="filterSelection('femminismo')">Femminismo</button>
-  <button class="btn" onclick="filterSelection('guerra')">Guerra</button>
-  <button class="btn" onclick="filterSelection('immigrazione')">Immigrazione</button>
-  <button class="btn" onclick="filterSelection('lavoro')">Lavoro</button>
-  <button class="btn" onclick="filterSelection('libro')">Libro</button>
-  <button class="btn" onclick="filterSelection('palestina')">Palestina</button>
-  <button class="btn" onclick="filterSelection('presidio')">Presidio</button>
-  <button class="btn" onclick="filterSelection('proiezione')">Proiezione</button>
-  <button class="btn" onclick="filterSelection('repressione')">Repressione</button>
-  <button class="btn" onclick="filterSelection('sanità')">Sanità</button>
-</div>
+<details>
+  <summary>Filtri</summary>
+  <div id="myBtnContainer">
+    <button class="btn active" onclick="filterSelection('all')">Mostra tutti</button>
+    <button class="btn" onclick="filterSelection('acqua')">Acqua</button>
+    <button class="btn" onclick="filterSelection('assemblea')">Assemblea</button>
+    <button class="btn" onclick="filterSelection('convegno')">Convegno</button>
+    <button class="btn" onclick="filterSelection('corteo')">Corteo</button>
+    <button class="btn" onclick="filterSelection('femminismo')">Femminismo</button>
+    <button class="btn" onclick="filterSelection('guerra')">Guerra</button>
+    <button class="btn" onclick="filterSelection('immigrazione')">Immigrazione</button>
+    <button class="btn" onclick="filterSelection('lavoro')">Lavoro</button>
+    <button class="btn" onclick="filterSelection('libro')">Libro</button>
+    <button class="btn" onclick="filterSelection('palestina')">Palestina</button>
+    <button class="btn" onclick="filterSelection('presidio')">Presidio</button>
+    <button class="btn" onclick="filterSelection('proiezione')">Proiezione</button>
+    <button class="btn" onclick="filterSelection('repressione')">Repressione</button>
+    <button class="btn" onclick="filterSelection('sanità')">Sanità</button>
+  </div>
+</details>
 
 <div class="events-timeline container">
   <div class="year-section" id="year-2026">

@@ -6,9 +6,12 @@ css: "/assets/css/index.css"
 
 <p>Il Comitato di Lotta Viterbo nasce nel 201X in continuità con precedenti esperienze politiche e, dal 2019, ha sede in Via del Suffragio 18 presso l'Officina Dinamo. Il Comitato è un collettivo politico Comunista di ispirazione Marxista-Leninista che ha come territorio di riferimento tutta la provincia viterbese. Come organizzazione Comunista locale il Comitato si pone l'obiettivo di lavorare per l'organizzazione della classe agendo sia a livello provinciale che nazionale, mantenendo stretti contatti con altre realtà anticapitaliste. Il lavoro politico del Comitato verte su temi quali:</p>
 
-<h2>SINDACATO</h2>
-
-<p>Consideriamo le lotte sindacali fondamentali al contrasto dello sfruttamento e della violenza padronale e il sindacato come uno degli strumenti fondamentali alla costruzione dell'unità e dell'offensiva della classe. Per questo motivo il Comitato lavora a stretto contatto con il Sindacato Intercategoriale COBAS, di matrice espressamente conflittuale e anticapitalista. Il SI COBAS è attivo in tutti i settori, annoverando membri specialmente nell'ambito della logistica. Quest’ultimo è stato terreno di numerose battaglie e vittorie, a dimostrazione che è la lotta, non l'abbonimento dei padroni ricercato dagli altri sindacati, a pagare. Dal 2019, con l'apertura dell'Officina Dinamo, è stata inaugurata la sede locale del SI COBAS Viterbo che conta di uno sportello di tutela legale attivo.</p>
+<details open ="">
+  <summary class="section-header">
+    <h2 class="section-title">SINDACATO</h2>
+  </summary>
+  <p>Consideriamo le lotte sindacali fondamentali al contrasto dello sfruttamento e della violenza padronale e il sindacato come uno degli strumenti fondamentali alla costruzione dell'unità e dell'offensiva della classe. Per questo motivo il Comitato lavora a stretto contatto con il Sindacato Intercategoriale COBAS, di matrice espressamente conflittuale e anticapitalista. Il SI COBAS è attivo in tutti i settori, annoverando membri specialmente nell'ambito della logistica. Quest’ultimo è stato terreno di numerose battaglie e vittorie, a dimostrazione che è la lotta, non l'abbonimento dei padroni ricercato dagli altri sindacati, a pagare. Dal 2019, con l'apertura dell'Officina Dinamo, è stata inaugurata la sede locale del SI COBAS Viterbo che conta di uno sportello di tutela legale attivo.</p>
+</details>
 
 <h2>SANITÀ</h2>
 

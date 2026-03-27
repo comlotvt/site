@@ -16,7 +16,7 @@ navbar-links:
   Archivio:
     - Eventi: "eventi"
     - Volantini: "volantini"
-  Home: "https://comlotvt.github.io/site/"
+  Chi Siamo: "chi-siamo"
 
 ################
 # --- Logo --- #

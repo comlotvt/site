@@ -6,8 +6,8 @@ css: "/assets/css/index.css"
 
 <div class="events-timeline container">
   <details>
-    <summary class="year-header">
-      <h2 class="year-title">Filtri</h2>
+    <summary class="paragraph-header">
+      <h2 class="paragraph-title">Filtri</h2>
     </summary>
     <div id="myBtnContainer">
       <button class="btn active" onclick="filterSelection('all')">Mostra tutto</button>
@@ -30,10 +30,10 @@ css: "/assets/css/index.css"
 </div>
 
 <div class="events-timeline container">
-  <div class="year-section" id="year-2026">  
+  <div class="paragraph-section" id="year-2026">  
     <details open ="">
-      <summary class="year-header">
-        <h2 class="year-title">2026</h2>
+      <summary class="paragraph-header">
+        <h2 class="paragraph-title">2026</h2>
       </summary>
       <div class="event-item filterDiv assemblea guerra">
         <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-03-22 - Assemblea Iran.jpeg">
@@ -80,10 +80,10 @@ css: "/assets/css/index.css"
 </div>
 
 <div class="events-timeline container">
-  <div class="year-section" id="year-2025">
+  <div class="paragraph-section" id="year-2025">
     <details open ="">
-      <summary class="year-header">
-        <h2 class="year-title">2025</h2>
+      <summary class="paragraph-header">
+        <h2 class="paragraph-title">2025</h2>
       </summary>
       <div class="event-item filterDiv sanità">
         <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2025-11-16 - Presentazione OST.jpg">
@@ -185,10 +185,10 @@ css: "/assets/css/index.css"
 </div>
 
 <div class="events-timeline container">
-  <div class="year-section" id="year-2024">
+  <div class="paragraph-section" id="year-2024">
     <details open ="">
-      <summary class="year-header">
-        <h2 class="year-title">2024</h2>
+      <summary class="paragraph-header">
+        <h2 class="paragraph-title">2024</h2>
       </summary>
       <div class="event-item filterDiv assemblea guerra palestina">
         <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2024-09-28 - Iniziativa Ucraina e Gaza.jpg">
@@ -292,10 +292,10 @@ css: "/assets/css/index.css"
 </div>
 
 <div class="events-timeline container">
-  <div class="year-section" id="year-2023">
+  <div class="paragraph-section" id="year-2023">
     <details open ="">
-      <summary class="year-header">
-        <h2 class="year-title">2023</h2>
+      <summary class="paragraph-header">
+        <h2 class="paragraph-title">2023</h2>
       </summary>
       <div class="event-item filterDiv assemblea palestina">
         <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2023-12-17 - Assemblea Palestina.jpg">
@@ -390,10 +390,10 @@ css: "/assets/css/index.css"
 </div>
 
 <div class="events-timeline container">
-  <div class="year-section" id="year-2022">
+  <div class="paragraph-section" id="year-2022">
     <details open ="">
-      <summary class="year-header">
-        <h2 class="year-title">2022</h2>
+      <summary class="paragraph-header">
+        <h2 class="paragraph-title">2022</h2>
       </summary>
       <div class="event-item filterDiv corteo guerra">
         <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2022-12-02 - Corteo Viterbo.jpg">
@@ -444,10 +444,10 @@ css: "/assets/css/index.css"
 </div>
 
 <div class="events-timeline container">
-  <div class="year-section" id="year-2021">
+  <div class="paragraph-section" id="year-2021">
     <details open ="">
-      <summary class="year-header">
-        <h2 class="year-title">2021</h2>
+      <summary class="paragraph-header">
+        <h2 class="paragraph-title">2021</h2>
       </summary>
       <div class="event-item filterDiv presidio">
         <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2021-10-11 - Presidio Viterbo.jpg">
@@ -537,10 +537,10 @@ css: "/assets/css/index.css"
 </div>
 
 <div class="events-timeline container">
-  <div class="year-section" id="year-2020">
+  <div class="paragraph-section" id="year-2020">
     <details open ="">
-      <summary class="year-header">
-        <h2 class="year-title">2020</h2>
+      <summary class="paragraph-header">
+        <h2 class="paragraph-title">2020</h2>
       </summary>
       <div class="event-item filterDiv presidio sanità">
         <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2020-12-19 - Presidio Ronciglione.jpg">
@@ -603,10 +603,10 @@ css: "/assets/css/index.css"
 </div>
 
 <div class="events-timeline container">
-  <div class="year-section" id="year-2019">
+  <div class="paragraph-section" id="year-2019">
     <details open ="">
-      <summary class="year-header">
-        <h2 class="year-title">2019</h2>
+      <summary class="paragraph-header">
+        <h2 class="paragraph-title">2019</h2>
       </summary>
       <div class="event-item filterDiv assemblea">
         <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2019-10-12 - Iniziativa Autunno Caldo.jpg">
@@ -710,10 +710,10 @@ css: "/assets/css/index.css"
 </div>
 
 <div class="events-timeline container">
-  <div class="year-section" id="year-2018">
+  <div class="paragraph-section" id="year-2018">
     <details open ="">
-      <summary class="year-header">
-        <h2 class="year-title">2018</h2>
+      <summary class="paragraph-header">
+        <h2 class="paragraph-title">2018</h2>
       </summary>
       <div class="event-item filterDiv assemblea">
         <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2018-10-06 - Iniziativa Scuola.jpg">
@@ -757,10 +757,10 @@ css: "/assets/css/index.css"
 </div>
 
 <div class="events-timeline container">
-  <div class="year-section" id="year-2017">
+  <div class="paragraph-section" id="year-2017">
     <details open ="">
-      <summary class="year-header">
-        <h2 class="year-title">2017</h2>
+      <summary class="paragraph-header">
+        <h2 class="paragraph-title">2017</h2>
       </summary>
       <div class="event-item filterDiv assemblea">
         <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2017-10-21 - Iniziativa 100 Anni Ottobre Rosso.jpg">
@@ -788,10 +788,10 @@ css: "/assets/css/index.css"
 </div>
 
 <div class="events-timeline container">
-  <div class="year-section" id="year-2016">
+  <div class="paragraph-section" id="year-2016">
     <details open ="">
-      <summary class="year-header">
-        <h2 class="year-title">2016</h2>
+      <summary class="paragraph-header">
+        <h2 class="paragraph-title">2016</h2>
       </summary>
       <div class="event-item filterDiv libro">
         <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2016-06-18 - Presentazione Libro.jpg">
@@ -805,10 +805,10 @@ css: "/assets/css/index.css"
 </div>
 
 <div class="events-timeline container">
-  <div class="year-section" id="year-2014">
+  <div class="paragraph-section" id="year-2014">
     <details open ="">
-      <summary class="year-header">
-        <h2 class="year-title">2014</h2>
+      <summary class="paragraph-header">
+        <h2 class="paragraph-title">2014</h2>
       </summary>
       <div class="event-item filterDiv lavoro libro">
         <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2014-09-26 - Presentazione Libro.jpg">
@@ -823,10 +823,10 @@ css: "/assets/css/index.css"
 </div>
 
 <div class="events-timeline container">
-  <div class="year-section" id="year-2013">
+  <div class="paragraph-section" id="year-2013">
     <details open ="">
-      <summary class="year-header">
-        <h2 class="year-title">2013</h2>
+      <summary class="paragraph-header">
+        <h2 class="paragraph-title">2013</h2>
       </summary>
       <div class="event-item filterDiv corteo">
         <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2013-10-19 - Corteo Roma.jpg">

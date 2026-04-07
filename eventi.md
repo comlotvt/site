@@ -35,6 +35,14 @@ css: "/assets/css/index.css"
       <summary class="paragraph-header">
         <h2 class="paragraph-title">2026</h2>
       </summary>
+      <div class="event-item filterDiv libro palestina">
+        <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-04-11 - Presentazione Dossier GPI.jpeg">
+        <h4>11-04-2026 - Presentazione del dossier "Made in Italy - per l'industria del genocidio" con i Giovani Palestinesi Italia</h4>
+        <div class="event-tags">
+          <span class="event-tag">libro</span>
+          <span class="event-tag">palestina</span>
+        </div>
+      </div>
       <div class="event-item filterDiv assemblea guerra">
         <img src="https://raw.githubusercontent.com/comlotvt/site/refs/heads/main/assets/img/2026-03-22 - Assemblea Iran.jpeg">
         <h4>22-03-2026 - Assemblea pubblica sull'aggressione imperialista all'Iran</h4>

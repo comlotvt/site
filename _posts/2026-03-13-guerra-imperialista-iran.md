@@ -2,7 +2,6 @@
 layout: post
 title: CONTRO LA GUERRA IMPERIALISTA IN IRAN E AL FIANCO DELLA RESISTENZA ARABO-PALESTINESE
 subtitle: ASSEMBLEA PUBBLICA – DOMENICA 22 MARZO – ORE 16:00 OFFICINA DINAMO – Via del Suffragio, 18 – VITERBO
-thumbnail-img: 
 tags: [guerra]
 author: Rete dei Comitati e Collettivi in Lotta
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: CONTRO LA GUERRA IMPERIALISTA IN IRAN E AL FIANCO DELLA RESISTENZA ARABO-PALESTINESE
 subtitle: ASSEMBLEA PUBBLICA – DOMENICA 22 MARZO – ORE 16:00 OFFICINA DINAMO – Via del Suffragio, 18 – VITERBO
-thumbnail-img: /assets/img/2026-03-22 - Assemblea Iran.jpeg
+thumbnail-img: 
 tags: [guerra]
 author: Rete dei Comitati e Collettivi in Lotta
 ---
@@ -32,6 +32,11 @@ Veniamo alla Repubblica Islamica dell’Iran con poche parole chiare. Non siamo 
 Non possiamo tuttavia auspicare il successo della nuova scorribanda imperialista americana.
 
 Non solo perché l’emancipazione del proletariato persiano non verrà mai, come ovvio, da un cacciabombardiere occidentale. L’imperialismo non porta mai la libertà e la guerra è da sempre strumento di morte e miseria contro gli sfruttati di tutto il mondo. Ma nella congiuntura specifica perché una vittoria sionista e statunitense sarebbe una catastrofe geopolitica – pensiamo solo alle guerre in Iraq, Afghanistan, Siria. Il proletariato può e deve salvarsi da solo. Auspichiamo che trovi le forze e il coraggio di farlo secondo quelli che sono i principi dell’autonomia di classe. Questa autonomia non può che essere, per definizione, anche autonomia totale dall’imperialismo. Non si tratta di appoggiare la borghesia iraniana, ma di difendere in blocco la classe operaia del Paese e le prospettive di lotta dell’eroica Resistenza antisionista.
+
+<figure style="text-align: center;">
+  <img src="/assets/img/2026-03-22 - Assemblea Iran.jpeg" alt="Assemblea Iran" />
+  <figcaption style="margin-top: 10px; font-style: italic;">Locandina dell'Assemblea.</figcaption>
+</figure>
 
 Per tutte queste ragioni sono chiari i compiti che ci attendono.
 

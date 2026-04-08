@@ -20,7 +20,7 @@ Rivendichiamo a gran voce di aver reso noto già da un anno il collaborazionismo
 
 Rivendichiamo di essere stati gli unici ad aver organizzato iniziative concrete in supporto a Wala e Haya per sbloccare la loro situazione e che se non fosse successo a breve avremmo portato la questione fin dentro il rettorato.
 
-L’UNITUS CHIUDA TUTTI GLI ACCORDI CON LE UNIVERSITÀ SIONISTE E CON LA FONDAZIONE MEDOR!
+L’UNITUS CHIUDA TUTTI GLI ACCORDI CON LE UNIVERSITÀ SIONISTE E CON LA FONDAZIONE MED-OR!
 AL FIANCO DELLA RESISTENZA PALESTINESE
 4 OTTOBRE – MANIFESTAZIONE NAZIONALE A ROMA
 

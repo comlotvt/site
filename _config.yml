@@ -14,9 +14,8 @@ author: CLV
 
 navbar-links:
   Archivio:
-    - Articoli: "articoli"
+    - Articoli e Volantini: "articoli"
     - Eventi: "eventi"
-    - Volantini: "volantini"
   Chi Siamo: "chi-siamo"
 
 ################

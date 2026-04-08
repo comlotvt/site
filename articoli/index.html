@@ -4,27 +4,25 @@ title: Articoli e Volantini
 css: "/assets/css/index.css"
 ---
 
-<div class="events-timeline container">
-  <details>
-    <summary class="paragraph-header">
-      <h2 class="paragraph-title">Filtri</h2>
-    </summary>
-    <div id="myBtnContainer">
-      <button class="btn active" onclick="filterSelection('all')">Mostra tutto</button>
-      <button class="btn" onclick="filterSelection('acqua')">Acqua</button>
-      <button class="btn" onclick="filterSelection('assemblea')">Assemblea</button>
-      <button class="btn" onclick="filterSelection('convegno')">Convegno</button>
-      <button class="btn" onclick="filterSelection('corteo')">Corteo</button>
-      <button class="btn" onclick="filterSelection('femminismo')">Femminismo</button>
-      <button class="btn" onclick="filterSelection('guerra')">Guerra</button>
-      <button class="btn" onclick="filterSelection('immigrazione')">Immigrazione</button>
-      <button class="btn" onclick="filterSelection('lavoro')">Lavoro</button>
-      <button class="btn" onclick="filterSelection('libro')">Libro</button>
-      <button class="btn" onclick="filterSelection('palestina')">Palestina</button>
-      <button class="btn" onclick="filterSelection('presidio')">Presidio</button>
-      <button class="btn" onclick="filterSelection('proiezione')">Proiezione</button>
-      <button class="btn" onclick="filterSelection('repressione')">Repressione</button>
-      <button class="btn" onclick="filterSelection('sanità')">Sanità</button>
+<div class="blog-header">
+  <div class="search-container">
+    <div class="search-box">
+      <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none"
+        xmlns="http://www.w3.org/2000/svg">
+        <circle cx="11" cy="11" r="8" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+          stroke-linejoin="round" />
+        <path d="m21 21-4.35-4.35" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+          stroke-linejoin="round" />
+      </svg>
+      <input type="text" id="blog-search" placeholder="Search posts by title, content, or tags..." autocomplete="off">
+      <button type="button" id="clear-search" class="clear-search" style="display: none;" title="Clear search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <line x1="18" y1="6" x2="6" y2="18" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+            stroke-linejoin="round" />
+          <line x1="6" y1="6" x2="18" y2="18" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+            stroke-linejoin="round" />
+        </svg>
+      </button>
     </div>
-  </details>
+  </div>
 </div>

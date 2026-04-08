@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CONTRO GLI SGOMBERI A VITERBO
-tags: [repressione]
+tags: ["repressione"]
 author: Comitato di Lotta Viterbo
 ---
 

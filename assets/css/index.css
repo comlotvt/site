@@ -646,3 +646,191 @@ body, h1, h2, h3, h4, h5, h6 {
 .search-box:has(input:not(:placeholder-shown))::after {
   opacity: 0;
 }
+
+/* --- Post Preview (Modern Cards) --- */
+
+.post-preview {
+  padding: var(--space-8) 0;
+  border-bottom: 1px solid var(--border-color);
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+  border-radius: var(--radius-lg);
+  margin: var(--space-4) 0;
+}
+
+.post-preview:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  background-color: var(--background-secondary);
+  padding: var(--space-8) var(--space-6);
+  margin: var(--space-4) calc(-1 * var(--space-6));
+}
+
+@media only screen and (min-width: 768px) {
+  .post-preview {
+    padding: var(--space-10) 0;
+  }
+}
+
+.post-preview:last-child {
+  border-bottom: 0;
+}
+
+.post-preview a {
+  text-decoration: none;
+  color: var(--text-primary);
+}
+
+.post-preview a:focus,
+.post-preview a:hover {
+  text-decoration: none;
+  color: var(--text-primary);
+}
+
+.post-preview .post-title {
+  font-size: var(--font-size-2xl);
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: var(--space-3);
+  color: var(--text-primary);
+  transition: color var(--transition-fast);
+}
+
+.post-preview:hover .post-title {
+  color: var(--primary-color);
+}
+
+.post-preview .post-subtitle {
+  margin: 0 0 var(--space-4);
+  font-weight: 400;
+  color: var(--text-secondary);
+  font-size: var(--font-size-lg);
+  line-height: var(--leading-relaxed);
+}
+
+.post-preview .post-meta,
+.post-heading .post-meta {
+  color: var(--text-muted);
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  margin: 0 0 var(--space-3);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.post-preview .post-entry {
+  font-family: var(--font-sans);
+  color: var(--text-secondary);
+  line-height: var(--leading-relaxed);
+}
+
+.post-entry-container {
+  display: inline-block;
+  width: 100%;
+}
+
+.post-entry {
+  width: 100%;
+}
+
+.post-image {
+  float: right;
+  height: 120px;
+  width: 120px;
+  margin-top: calc(-1 * var(--space-4));
+  margin-left: var(--space-6);
+  filter: grayscale(30%);
+  transition: filter var(--transition-normal), transform var(--transition-normal);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+}
+
+.post-image:hover {
+  filter: grayscale(0%);
+  transform: scale(1.02);
+}
+
+.post-image img {
+  border-radius: var(--radius-lg);
+  height: 120px;
+  width: 120px;
+  object-fit: cover;
+}
+
+.post-preview .post-read-more {
+  font-weight: 600;
+  color: var(--primary-color);
+  font-size: var(--font-size-sm);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: var(--space-4);
+  display: inline-block;
+}
+
+@media only screen and (min-width: 768px) {
+  .post-preview .post-title {
+    font-size: var(--font-size-3xl);
+  }
+}
+
+/* --- Tags --- */
+
+.blog-tags {
+  font-family: var(--font-sans);
+  color: var(--text-muted);
+  font-size: var(--font-size-sm);
+  margin-bottom: var(--space-8);
+}
+
+.blog-tags a {
+  color: var(--primary-color);
+  text-decoration: none;
+  padding: var(--space-1) var(--space-3);
+  background-color: var(--background-secondary);
+  border-radius: var(--radius-md);
+  font-weight: 500;
+  font-size: var(--font-size-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-right: var(--space-2);
+  margin-bottom: var(--space-2);
+  display: inline-block;
+  transition: all var(--transition-fast);
+  border: 1px solid var(--border-color);
+}
+
+.blog-tags a:hover {
+  background-color: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
+}
+
+.post-preview .blog-tags {
+  margin-top: var(--space-4);
+  margin-bottom: 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .post-preview .blog-tags {
+    margin-top: var(--space-6);
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .post-image,
+  .post-image img {
+    height: 80px;
+    width: 80px;
+  }
+
+  .post-image {
+    width: 100%;
+    text-align: center;
+    margin-top: 0;
+    float: none;
+    margin-left: 0;
+    margin-bottom: var(--space-4);
+  }
+}
